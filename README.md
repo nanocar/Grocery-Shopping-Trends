@@ -4,6 +4,8 @@ Working on a project to scan my receipts and learn more about my shopping trends
 ## Tutorials I'm using  
 https://towardsdatascience.com/document-scanner-using-computer-vision-opencv-and-python-20b87b1cbb06
 
+https://nanonets.com/blog/receipt-ocr/
+
 
 ### _Progress Journal_:
 Using this to practice markdown and to practice Git.
